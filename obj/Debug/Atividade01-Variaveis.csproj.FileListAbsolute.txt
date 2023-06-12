@@ -1,0 +1,8 @@
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\bin\Debug\Atividade01-Variaveis.exe.config
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\bin\Debug\Atividade01-Variaveis.exe
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\bin\Debug\Atividade01-Variaveis.pdb
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\obj\Debug\Atividade01-Variaveis.csproj.AssemblyReference.cache
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\obj\Debug\Atividade01-Variaveis.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\obj\Debug\Atividade01-Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\obj\Debug\Atividade01-Variaveis.exe
+C:\Users\vitin\source\repos\Atividade01-Variaveis\Atividade01-Variaveis\obj\Debug\Atividade01-Variaveis.pdb
