@@ -11,7 +11,7 @@ namespace Atividade01_Variaveis
         static void Main(string[] args)
         {
             string nome1 = "Conrado Hartwell White";
-            string nome2 = "Gus";
+            string nome2 = "Gus Fring";
             
 
             int idade1 = 16;
@@ -28,7 +28,7 @@ namespace Atividade01_Variaveis
            
 
             Console.WriteLine("Olá!");
-            Console.WriteLine("Bem-Vindo ao sistema de usuário do Don Conrado");
+            Console.WriteLine("Bem-Vindo ao sistema de usuário do Conrado");
             Console.WriteLine("Informações de usuários cadastrados abaixo:\n \n");
 
 
